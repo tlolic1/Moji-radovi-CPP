@@ -45,18 +45,12 @@ public:
             {"Koji od ponudjenih dokumenata se ne moze naci u okviru predmeta TP?", {"Sve sto treba znati o pokazivacima, a sto vam mama nije rekla", "Da li je } kraj", "Cilega zivota ja san tija samo konstruktor", "Kako je propalo Rimsko carstvo"}, 2},
             {"Koje je godiste Gilbert Strang?", {"1934.", "1944.", "2002.", "1954."}, 0},
             {"Ako ubacis marku, koliko vremena dobijes na Steleksovom PS5?", {"10 min", "12 min", "sat i po", "15 m/s"}, 1},
+            {"Ko je treci autor poznate zbirke iz IF1 pored Samicke i Nikolica?", {"Muftic-Dedovic", "Jackson", "Hajrovic", "Hanjalic"}, 3},
+            {"Dana 26. marta 2024. objavljena je zadaca iz kojeg predmeta?", {"Linearne algebre", "Rimskog prava", "MLIT-a", "IM4"}, 2},
+            {"Koje pravilo je bilo nametnuto na osmomartovskom kvizu koje je organizovao Steleks?", {"Svi muski moraju ponijeti ruzu umjesto kotizacije", "Barem jedna djevojka po timu", "Ne moze se prijaviti ekipa, nego se one nasumicno formiraju", "Ne smije ucestvovati prof. Mirza Hamza jer on stalno pobjedjuje"}, 1},
+                       
             //nastavi
-            {"Koji je najveca riba na svijetu?", {"Velika bijela ajkula", "Kitopsina", "Morski pas", "Tuna"}, 1},
-            {"Koji je najveca zmija na svijetu?", {"Pitona", "Boa", "Anakonda", "Kobra"}, 2},
-            {"Koji je najveca zaba na svijetu?", {"Goliath zaba", "Bullfrog", "Tree frog", "Poison dart frog"}, 0},
-            {"Koji je najveca kornjaca na svijetu?", {"Galapagos kornjaca", "Leatherback kornjaca", "Green sea kornjaca", "Hawksbill kornjaca"}, 1},
-            {"Koji je najveca zivotinja na kopnu?", {"Slon", "Nosorog", "Bivol", "Giraffe"}, 0},
-            {"Koji je najveca zivotinja u vodi?", {"Plavi kit", "Delfin", "Morski pas", "Orca"}, 0},
-            {"Koji je najveca ptica koja ne leti?", {"Noj", "Emu", "Kivi", "Pingvin"}, 0},
-            {"Koji je najveca zivotinja u Africi?", {"Slon", "Nosorog", "Lav", "Bivol"}, 0},
-            {"Koji je najveca zivotinja u Aziji?", {"Tigar", "Slon", "Nosorog", "Panda"}, 1},
-            {"Koji je najveca zivotinja u Australiji?", {"Kangaroo", "Koala", "Emu", "Dingo"}, 0},
-            {"Koji je najveca zivotinja u Evropi?", {"Medvjed", "Vuk", "Jelen", "Bivol"}, 0}
+           
         };
         // Shuffle all questions and select the first 15
         auto rng = default_random_engine(time(0));
