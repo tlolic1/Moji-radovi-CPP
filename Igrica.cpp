@@ -48,11 +48,7 @@ public:
             {"Ko je treci autor poznate zbirke iz IF1 pored Samicke i Nikolica?", {"Muftic-Dedovic", "Jackson", "Hajrovic", "Hanjalic"}, 3},
             {"Dana 26. marta 2024. objavljena je zadaca iz kojeg predmeta?", {"Linearne algebre", "Rimskog prava", "MLIT-a", "IM4"}, 2},
             {"Koje pravilo je bilo nametnuto na osmomartovskom kvizu koje je organizovao Steleks?", {"Svi muski moraju ponijeti ruzu umjesto kotizacije", "Barem jedna djevojka po timu", "Ne moze se prijaviti ekipa, nego se one nasumicno formiraju", "Ne smije ucestvovati prof. Mirza Hamza jer on stalno pobjedjuje"}, 1},
-<<<<<<< HEAD
             {"Koliko uposlenika ima HR shema koja se radi na OBP?",{"107", "387", "062-39... neću vam svoj broj dat", "211"}, 0},
-=======
-                       
->>>>>>> ac93d008b66b335faa2f4cfd5e4da6a6021bef1f
             //nastavi
            
         };
